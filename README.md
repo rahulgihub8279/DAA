@@ -1,4 +1,5 @@
 # rahul-DAA
+
 design and analysis of algorithm
 <br>
-name - rahul
+name - rahul trivedi
